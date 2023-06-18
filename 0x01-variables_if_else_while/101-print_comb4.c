@@ -20,7 +20,7 @@ int main(void)
 		while (digit2 <= 9)
 		{
 			digit3 = 0;
-			digti3 = 0;
+			digit3 = 0;
 			while (digit3 <= 9)
 			{
 				if	(digit1 != digit2 &&
@@ -29,7 +29,7 @@ int main(void)
 					digit2 < digit3)
 				{
 					putchar(digit1 + 48);
-					putchar(digti2 + 48);
+					putchar(digit2 + 48);
 					putchar(digit3 + 48);
 
 					if (digit1 + digit2 + digit3 != 24)
