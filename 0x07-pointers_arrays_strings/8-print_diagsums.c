@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * print_diagrum - description.
- * @a: 2d array of int type
+ * print_diagsums - description.
+ * @a: 2d array of int types
  * @size: size of array (square)
 */
 
