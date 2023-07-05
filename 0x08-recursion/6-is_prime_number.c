@@ -10,7 +10,7 @@
 int check_prime(int n, int othrn);
 int is_prime_number(int n)
 {
-return (cheack_prime(n, 2));
+return (check_prime(n, 2));
 }
 
 /**
