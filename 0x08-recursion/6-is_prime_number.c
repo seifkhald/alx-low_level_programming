@@ -7,7 +7,7 @@
  * Return: 0 or 1
 */
 
-int cheack_prime(int n, int othrn);
+int check_prime(int n, int othrn);
 int is_prime_number(int n)
 {
 return (cheack_prime(n, 2));
